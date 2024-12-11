@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Aplicação Gráfica 3D, Animação ou Modelo 3D - Tema 2 - Tarefa 4
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Modelagem e Construção de Aplicações 3d`
